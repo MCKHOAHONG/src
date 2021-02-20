@@ -1,3 +1,3 @@
 # Bot [help Page]
 Bấm "View Cođe" 
-[VIETNAMSE](https://github.com/MCKHOAHONG/README-VI/)
+[VIETNAMSE](README-VI/SRC.md)
